@@ -15,5 +15,5 @@ puts(s1);
 print"2 storona ";
 puts(s2);
 
-print "3 stotona ";
+print "3 storona ";
 puts(s3);
